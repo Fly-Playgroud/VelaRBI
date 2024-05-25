@@ -1,4 +1,4 @@
-# Vela RBI
+# Vela RBI(微辣 RBI)
 
 ## Introduction
 The lightweight RBI(Remote Browser Isolation).
